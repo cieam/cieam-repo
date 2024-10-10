@@ -11,6 +11,5 @@ public class Test {
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append(name);
         System.out.println(stringBuffer.substring(0,4));
-        Map map = new HashMap<>();
     }
 }
